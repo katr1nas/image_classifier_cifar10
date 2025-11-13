@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+myenv/
+venv/
+
+# Data and models
+*.npz
+*.h5
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
